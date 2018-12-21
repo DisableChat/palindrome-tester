@@ -100,5 +100,4 @@ bool palTest(string word, int begin, int end)
   {
     return true;
   }
-
 }
